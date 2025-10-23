@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "unity_config.h": "c",
+        "stdint.h": "c",
+        "unity.h": "c",
+        "stdio.h": "c",
+        "freertos.h": "c",
+        "stdlib.h": "c",
+        "sync.h": "c"
+    }
+}
